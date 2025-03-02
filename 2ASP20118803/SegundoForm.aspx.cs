@@ -34,7 +34,7 @@ namespace _2ASP20118803
             Decimal decValueOnOrder = decPrice * bytNumberOnOrder;
             lblNumberInStock.Text = decValueInStock.ToString("c");
             lblNumberOnOrder.Text = decValueOnOrder.ToString("c");
-
+            //Segundo Ejercicio Terminado
 
         }
     }
