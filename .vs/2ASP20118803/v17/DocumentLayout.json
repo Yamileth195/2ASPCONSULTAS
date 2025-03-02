@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MINEDUCYT\\Desktop\\ARCIDES\\PRACTICA3\\2ASP20118803\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4DAD13A9-3D4E-4446-BA7B-55A62B049E28}|2ASP20118803\\2ASP20118803.csproj|C:\\Users\\MINEDUCYT\\Desktop\\ARCIDES\\PRACTICA3\\2ASP20118803\\2asp20118803\\query string.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DAD13A9-3D4E-4446-BA7B-55A62B049E28}|2ASP20118803\\2ASP20118803.csproj|solutionrelative:2asp20118803\\query string.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DAD13A9-3D4E-4446-BA7B-55A62B049E28}|2ASP20118803\\2ASP20118803.csproj|C:\\Users\\MINEDUCYT\\Desktop\\ARCIDES\\PRACTICA3\\2ASP20118803\\2asp20118803\\query string.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{4DAD13A9-3D4E-4446-BA7B-55A62B049E28}|2ASP20118803\\2ASP20118803.csproj|solutionrelative:2asp20118803\\query string.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DAD13A9-3D4E-4446-BA7B-55A62B049E28}|2ASP20118803\\2ASP20118803.csproj|C:\\Users\\MINEDUCYT\\Desktop\\ARCIDES\\PRACTICA3\\2ASP20118803\\2asp20118803\\segundoform.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DAD13A9-3D4E-4446-BA7B-55A62B049E28}|2ASP20118803\\2ASP20118803.csproj|solutionrelative:2asp20118803\\segundoform.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DAD13A9-3D4E-4446-BA7B-55A62B049E28}|2ASP20118803\\2ASP20118803.csproj|c:\\users\\mineducyt\\desktop\\arcides\\practica3\\2asp20118803\\2asp20118803\\segundoform.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{4DAD13A9-3D4E-4446-BA7B-55A62B049E28}|2ASP20118803\\2ASP20118803.csproj|solutionrelative:2asp20118803\\segundoform.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Query string.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\MINEDUCYT\\Desktop\\ARCIDES\\PRACTICA3\\2ASP20118803\\2ASP20118803\\Query string.aspx.cs",
+              "RelativeDocumentMoniker": "2ASP20118803\\Query string.aspx.cs",
+              "ToolTip": "C:\\Users\\MINEDUCYT\\Desktop\\ARCIDES\\PRACTICA3\\2ASP20118803\\2ASP20118803\\Query string.aspx.cs",
+              "RelativeToolTip": "2ASP20118803\\Query string.aspx.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAmwCAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T05:48:02.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Query string.aspx",
+              "DocumentMoniker": "C:\\Users\\MINEDUCYT\\Desktop\\ARCIDES\\PRACTICA3\\2ASP20118803\\2ASP20118803\\Query string.aspx",
+              "RelativeDocumentMoniker": "2ASP20118803\\Query string.aspx",
+              "ToolTip": "C:\\Users\\MINEDUCYT\\Desktop\\ARCIDES\\PRACTICA3\\2ASP20118803\\2ASP20118803\\Query string.aspx",
+              "RelativeToolTip": "2ASP20118803\\Query string.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-02-28T05:45:46.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SegundoForm.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\MINEDUCYT\\Desktop\\ARCIDES\\PRACTICA3\\2ASP20118803\\2ASP20118803\\SegundoForm.aspx.cs",
+              "RelativeDocumentMoniker": "2ASP20118803\\SegundoForm.aspx.cs",
+              "ToolTip": "C:\\Users\\MINEDUCYT\\Desktop\\ARCIDES\\PRACTICA3\\2ASP20118803\\2ASP20118803\\SegundoForm.aspx.cs",
+              "RelativeToolTip": "2ASP20118803\\SegundoForm.aspx.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAuwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T05:22:50.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SegundoForm.aspx",
+              "DocumentMoniker": "C:\\Users\\MINEDUCYT\\Desktop\\ARCIDES\\PRACTICA3\\2ASP20118803\\2ASP20118803\\SegundoForm.aspx",
+              "RelativeDocumentMoniker": "2ASP20118803\\SegundoForm.aspx",
+              "ToolTip": "C:\\Users\\MINEDUCYT\\Desktop\\ARCIDES\\PRACTICA3\\2ASP20118803\\2ASP20118803\\SegundoForm.aspx",
+              "RelativeToolTip": "2ASP20118803\\SegundoForm.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-02-28T05:09:41.172Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
